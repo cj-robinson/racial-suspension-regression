@@ -1,0 +1,8 @@
+.env
+.DS_Store
+.ipynb_checkpoints/
+final_data.csv
+filtered_census_vars.csv
+analysis/.ipynb_checkpoints/
+final_data.csv
+2021-22-crdc-data/
