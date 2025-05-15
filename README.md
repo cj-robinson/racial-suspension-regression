@@ -10,7 +10,8 @@ This repo holds the code to examine 2021-22 Civil Rights education data for raci
 
 **ccd_sch_033_2122_l_1a_071722.csv**
 - I also utlize school-lunch data as a proxy for poverty/income in a school found here: https://nces.ed.gov/ccd/files.asp
-
+**suspensions.csv**
+- Only the final csv for the suspensions is added, it contains data from many years that were separate csvs. There is **NYCLU.csv** that contains the data prior to 2015-2016 that was taken from NYCLU's data.
 **nyc_final_data_filtered.csv**
 - School/District data for all New York schools, later joined on school IDs, found here: https://nces.ed.gov/ccd/schoolsearch
 
@@ -28,3 +29,5 @@ This repo holds the code to examine 2021-22 Civil Rights education data for raci
 
 4-linear-regression.ipynb
 - regression and residual analysis for story, including data that was uploaded to Datawrapper for visualization
+5-suspenions_nyc.ipynb
+-loading all the separate academic files for NYC to make a master csv file.
